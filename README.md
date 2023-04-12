@@ -38,4 +38,4 @@ Here are some ideas to get you started:
   
   
 ## 😄me😄
-<a href="https://functional-hydrofoil-fd1.notion.site/ios-4b1bd219ad28420c9161982148eb63e2" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png" alt="notion" width="500px"/></a>
+<a href="https://functional-hydrofoil-fd1.notion.site/ios-4b1bd219ad28420c9161982148eb63e2" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png" alt="notion" width="50px"/></a>
