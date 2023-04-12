@@ -15,7 +15,7 @@ Here are some ideas to get you started:
  <p align="center">
 <div align=center>
 
-## 📚learning📚
+## 📚Learning
   
   <p align='center'>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 <br><br>
-## 🔨tool🔨
+## 🛠️Tools
    <img src="https://img.shields.io/badge/Xcode-147EFB?style/badge&logo=Xcode&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/>
@@ -31,11 +31,11 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Stdio-5C2D91?style/badge&logo=Visual-Studio&logoColor=white">
 
-  <br />
+  <br/>
 
   
 <br><br>
   
   
-## 😄me😄
+## 😄me
 <a href="https://functional-hydrofoil-fd1.notion.site/ios-4b1bd219ad28420c9161982148eb63e2" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png" alt="notion" width="40px"/></a>
