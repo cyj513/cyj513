@@ -38,5 +38,5 @@ Here are some ideas to get you started:
   
  
 ## 😄me
-<a href="https://functional-hydrofoil-fd1.notion.site/ios-4b1bd219ad28420c9161982148eb63e2"target="_blank">
+<a href="https://functional-hydrofoil-fd1.notion.site/ios-4b1bd219ad28420c9161982148eb63e2"target="_blank"/>
  <img src="<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
